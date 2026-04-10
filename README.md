@@ -1,11 +1,8 @@
 # Arduino Dino Game 🦕
 
 A Chrome Dino Runner clone built using Arduino and a 0.96" SSD1306 OLED display with a tactile button. This is a fully functional mini-game where you control a dinosaur to jump over moving cacti, just like the famous offline Chrome game!
-
-![Project Photo](images/dino-game.jpg)
-*(Real working prototype - Score: 3013 | HI: 244)*
-
----
+<video src="Oled game 1 .mp4" width="600" controls></video>
+<video src="Oled game 2.mpa" width="600" controls></video>
 
 ## ✨ Features
 
